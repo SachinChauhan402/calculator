@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+}
+
+input{
+    font-size: medium;
+    border-color:black;
+    border-width: 2px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    height: 25px;
+}
+
+
+.calculator{
+
+    display: inline-block;
+    
+
+}
+button{
+
+    width: 47px;
+    height: 25px;
+    font-size: large;
+}
+table{
+
+   
+    font-size: larger;
+    margin:auto;
+}
+p{
+        text-align: center;
+        font-style: italic;
+}
